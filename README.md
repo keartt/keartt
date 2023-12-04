@@ -10,19 +10,15 @@
 
 ```javascript
 var keartt = {
-    name: "",
-    email: "",
-    blog: "",
-    myStack: "",
+    name: "SungHyunKang",
+    email: "shalpha_2@naver.com",
+    blog: "https://keartt.tistory.com/",
+    myStack: "Scroll down and Show my Stack badge",
     init: async function () {
-        this.name = "SungHyunKang";
-        this.email = "shalpha_2@naver.com";
-        this.blog = "https://keartt.tistory.com/";
-        this.myStack = "Scroll down and Show my Stack badge"
-        await this.beStrong(); 
+        await this.beStrong();
     },
     contact: function () {
-        //"Scroll down and click on 'keartt.contact();' below.")
+        // "Scroll down and click on 'keartt.contact();' below."
     },
     beStrong: function () {
         const doSomethingOncePerDay = async function () {
