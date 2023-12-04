@@ -1,6 +1,6 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://private-user-images.githubusercontent.com/83094369/287747983-bab1dbf3-fd73-49e1-a2b6-cc6cacedf132.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3MDQwNjUsIm5iZiI6MTcwMTcwMzc2NSwicGF0aCI6Ii84MzA5NDM2OS8yODc3NDc5ODMtYmFiMWRiZjMtZmQ3My00OWUxLWEyYjYtY2M2Y2FjZWRmMTMyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA0VDE1MjkyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4ZTJkYTVmYzk1ODE2OTk5YzY0YzNmNjhhMzA2NzEzY2U4OWI0MTdjMWE5OWU1ZDg3MDEzODY1MGZhYjIwZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wBivNWS-vo-wrKKPQhbm_SgT0giuzhn46QCLK0_QOCs" style="max-width: 50%;">
+  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkBcVa%2FbtsBq3lN1ga%2FKGKVnsRtWeobvN3lDA1IbK%2Fimg.png" style="max-width: 50%;">
 
 </div>
 
