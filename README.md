@@ -1,15 +1,10 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://i.namu.wiki/i/wBJUQlD99R7WQ7BCWiaIH0CP2ha0LdeVCo6q1mZT_7jAl91vDBlyejxHVdEpf1VI5DCT1LmVT6SB4EHTRUT2IA.svg" alt="transparent" style="max-width: 50%;">
+  <img src="https://private-user-images.githubusercontent.com/83094369/287747983-bab1dbf3-fd73-49e1-a2b6-cc6cacedf132.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3MDQwNjUsIm5iZiI6MTcwMTcwMzc2NSwicGF0aCI6Ii84MzA5NDM2OS8yODc3NDc5ODMtYmFiMWRiZjMtZmQ3My00OWUxLWEyYjYtY2M2Y2FjZWRmMTMyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA0VDE1MjkyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4ZTJkYTVmYzk1ODE2OTk5YzY0YzNmNjhhMzA2NzEzY2U4OWI0MTdjMWE5OWU1ZDg3MDEzODY1MGZhYjIwZjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wBivNWS-vo-wrKKPQhbm_SgT0giuzhn46QCLK0_QOCs" style="max-width: 50%;">
 
-  <div style="margin-left: 50px; padding: 15px; background-color: #f0f0f0; border-radius: 15px; width: 200px;">
-    <h2 style="color: #333;">Welcome to my git</h2>
-    <h3 style="color: indigo;">keartt.<span style="color: orange;">init();</span></h3>
-  </div>
 </div>
 
 
-<br>
 
 <p align="center">
 
@@ -35,7 +30,7 @@ var keartt = {
         };
         const scheduleDailyExecution = async function () {
             const now = new Date();
-            const millisecondsUntilNextDay = (24 * 60 * 60 * 1000) - (now.getHours() * 60 * 60 * 1000) - (now.getMinutes() * 60 * 1000) - (now.getSeconds() * 1000);
+            const millisecondsUntilNextDay = 24 * 60 * 60 * 1000 - (now - new Date(now).setHours(0, 0, 0, 0));
             await new Promise(resolve => setTimeout(resolve, millisecondsUntilNextDay));
             await doSomethingOncePerDay();
             await scheduleDailyExecution();
