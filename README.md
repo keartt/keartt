@@ -7,10 +7,11 @@
 
 
 <p align="center">
-
-<details>
-<summary>keartt</summary>
-<div markdown="1">
+<div align="center">
+  <details>
+    <summary align="center">keartt</summary>
+    
+  <div markdown="1" align="left">
 
 ```javascript
 var keartt = {
@@ -38,11 +39,10 @@ var keartt = {
         scheduleDailyExecution();
     }
 };
-
 ```
-
+ </div>
+  </details>
 </div>
-</details>
 
 
 <div align="center">
