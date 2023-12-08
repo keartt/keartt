@@ -60,23 +60,23 @@ If you want to contact me, show [keartt.blog](https://keartt.tistory.com/) and j
 <div align="center">
 <div style="display:flex; flex-direction:column; align-items: center; justify-content: center;">
     <div>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-        <img src="https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-        <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<!--         <img src="https://img.shields.io/badge/java-FF7800?style=flat-square&logo=java&logoColor=white"> -->
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> 
     </div>
     <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery">
-        <img src="https://img.shields.io/badge/Openlayers-1F6B75?style=for-the-badge&logo=Openlayers">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat-square&logo=Openlayers">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
     </div>
     <div>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+<!--         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">  -->
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
     </div>
 </div>
 </div>
@@ -88,18 +88,19 @@ If you want to contact me, show [keartt.blog](https://keartt.tistory.com/) and j
 <div align="center">
 <div style="display:flex; flex-direction:column; align-items: center; justify-content: center;">
   <div>
-        <img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Cesium-6CADDF?style=for-the-badge&logo=Cesium&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"> 
+        <img src="https://img.shields.io/badge/MapBox-000000?style=flat-square&logo=mapbox&logoColor=white"> 
   </div>
     <div> 
-        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
-        <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
-        <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Cesium-6CADDF?style=flat-square&logo=Cesium&logoColor=white"> 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
     </div>
     <div>
-        <img src="https://img.shields.io/badge/kotiln-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/Kotiln-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
     </div>
    <br>
 </div>
