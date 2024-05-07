@@ -1,10 +1,7 @@
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<!-- <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkBcVa%2FbtsBq3lN1ga%2FKGKVnsRtWeobvN3lDA1IbK%2Fimg.png" style="max-width: 50%;">
-
-</div>
-
-
+</div> -->
 
 <p align="center">
 
@@ -14,7 +11,6 @@
 If you want to contact me, show [my blog](https://keartt.tistory.com/) and just [mail to me](mailto:shalpha_2@naver.com)
 
 </div>
-<br>
 <div align="center">
 
 # myStack
@@ -46,6 +42,7 @@ If you want to contact me, show [my blog](https://keartt.tistory.com/) and just 
 </div>
 <div align="center">
 
+<!-- 
 #### Getting stronger
 
 </div>
@@ -66,6 +63,8 @@ If you want to contact me, show [my blog](https://keartt.tistory.com/) and just 
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"> 
 <!--         <img src="https://img.shields.io/badge/MapBox-000000?style=flat-square&logo=mapbox&logoColor=white"> -->
   </div> 
+
+<br>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
