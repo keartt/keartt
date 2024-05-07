@@ -13,33 +13,7 @@
     
   <div markdown="1" align="left">
 
-```javascript
-var keartt = {
-    name: "SungHyunKang",
-    email: "shalpha_2@naver.com",
-    blog: "https://keartt.tistory.com/",
-    myStack: "Scroll down and Show my Stack badge",
-    init: async function () {
-        await this.beStrong();
-    },
-    contact: function () {
-        // "Scroll down and click on 'keartt.contact();' below."
-    },
-    beStrong: function () {
-        const doSomethingOncePerDay = async function () {
-            // study this.myStack;
-        };
-        const scheduleDailyExecution = async function () {
-            const now = new Date();
-            const millisecondsUntilNextDay = 24 * 60 * 60 * 1000 - (now - new Date(now).setHours(0, 0, 0, 0));
-            await new Promise(resolve => setTimeout(resolve, millisecondsUntilNextDay));
-            await doSomethingOncePerDay();
-            await scheduleDailyExecution();
-        };
-        scheduleDailyExecution();
-    }
-};
-```
+
  </div>
   </details>
 </div>
