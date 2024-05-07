@@ -7,17 +7,6 @@
 
 
 <p align="center">
-<div align="center">
-  <details>
-    <summary align="center">keartt</summary>
-    
-  <div markdown="1" align="left">
-
-
- </div>
-  </details>
-</div>
-
 
 <div align="center">
 
