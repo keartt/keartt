@@ -11,7 +11,7 @@
 <div align="center">
 
 ## Contact Me
-If you want to contact me, show [keartt.blog](https://keartt.tistory.com/) and just [keartt.contact();](mailto:shalpha_2@naver.com)
+If you want to contact me, show [my blog](https://keartt.tistory.com/) and just [mail to me](mailto:shalpha_2@naver.com)
 
 </div>
 <br>
