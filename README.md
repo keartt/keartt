@@ -35,8 +35,8 @@ If you want to contact me, show [my blog](https://keartt.tistory.com/) and just 
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> 
               <img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat-square&logo=Openlayers">
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery">
-    </div>
+<!--         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery">
+    </div> -->
    
 </div>
 </div>
