@@ -21,20 +21,21 @@ If you want to contact me, show [my blog](https://keartt.tistory.com/) and just 
     <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <!--         <img src="https://img.shields.io/badge/java-FF7800?style=flat-square&logo=java&logoColor=white"> -->
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Boot-01DF3A?style=flat-square&logo=Spring Boot&logoColor=white">
               <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
     </div>
    <div>
 <!--         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">  -->
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
+       <img src="https://img.shields.io/badge/Docker-2E9AFE?style=flat-square&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/Apache&Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon AWS-DF7401?style=flat-square&logo=amazon aws&logoColor=white"> 
     </div>
     <div>
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> 
-              <img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat-square&logo=Openlayers">
+              <img src="https://img.shields.io/badge/Openlayers-04B4AE?style=flat-square&logo=Openlayers&logoColor=white">
 <!--         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery">
     </div> -->
    
