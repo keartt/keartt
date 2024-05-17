@@ -8,7 +8,15 @@
 <div align="center">
 
 ## Contact Me
-If you want to contact me, show [my blog](https://keartt.tistory.com/) and just [mail to me](mailto:shalpha_2@naver.com)
+If you want to contact me, and just [mail to me](mailto:shalpha_2@naver.com)
+
+ <a href="https://keartt.tistory.com/" target="_empty">
+      <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  </a>
+
+   <a href="[https://d0u0b.tistory.com/](https://velog.io/@ttraek/posts)" target="_empty">
+      <img src="https://img.shields.io/badge/velog-04B4AE?style=for-the-badge&logo=Velog&logoColor=white"/>
+  </a>
 
 </div>
 <div align="center">
