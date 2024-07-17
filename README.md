@@ -1,26 +1,29 @@
 
-<!-- <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkBcVa%2FbtsBq3lN1ga%2FKGKVnsRtWeobvN3lDA1IbK%2Fimg.png" style="max-width: 50%;">
-</div> -->
-
-<p align="center">
 
 <div align="center">
 
 ## Contact Me
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeartt&count_bg=%23C2B8B8&title_bg=%23D62DD7&icon=&icon_color=%23E7E7E7&title=Hi+there&edge_flat=false"/></a><br>
 If you want to contact me, and just [mail to me](mailto:shalpha_2@naver.com)
 
  <a href="https://keartt.tistory.com/" target="_empty">
-      <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Visit My Blog-8904B1?style=for-the-badge&logo=Tistory&logoColor=white"/>
   </a>
 
-   <a href="https://velog.io/@ttraek/posts" target="_empty">
-      <img src="https://img.shields.io/badge/velog-04B4AE?style=for-the-badge&logo=Velog&logoColor=white"/>
-  </a>
+
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shalpha)](https://solved.ac/shalpha/)
+<div style="display: inline-block;">
+    <a href="https://solved.ac/shalpha/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shalpha" alt="Solved.ac Profile" width="35%" >
+    </a>
+    <a href="/">
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile 3D Contribution" width="60%" height="300px">
+    </a>
+</div>
+
 
 </div>
+
 <div align="center">
 
 # myStack
@@ -46,39 +49,27 @@ If you want to contact me, and just [mail to me](mailto:shalpha_2@naver.com)
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> 
               <img src="https://img.shields.io/badge/Openlayers-04B4AE?style=flat-square&logo=Openlayers&logoColor=white">
-<!--         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery">
-    </div> -->
+<!--         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery">-->
+    </div>
    
 </div>
 </div>
-<div align="center">
 
-<!-- 
-#### Getting stronger
+## TIL
+> [!NOTE]
+> 매일 개념과 코드 공부한 내용들 md 파일로 정리 합니다.
 
-</div>
-<div align="center">
-<div style="display:flex; flex-direction:column; align-items: center; justify-content: center;">
-  <div>
-        <img src="https://img.shields.io/badge/Kotiln-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-    </div>
-    <div> 
-        <img src="https://img.shields.io/badge/Cesium-6CADDF?style=flat-square&logo=Cesium&logoColor=white"> 
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> 
-    </div>
-      <div>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"> 
-<!--         <img src="https://img.shields.io/badge/MapBox-000000?style=flat-square&logo=mapbox&logoColor=white"> -->
-  </div> 
+#### <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" width="20" height="20" style="vertical-align: middle;"/> Docker [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/Docker)
 
-<br>
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="20" height="20" style="vertical-align: middle;"/> Git [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/Git)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-   <br>
-</div>
-</div>
+#### <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" width="20" height="20" style="vertical-align: middle;"/> Java [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/Java)
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" width="20" height="20" style="vertical-align: middle;"/> Linux & Server [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/LInux%2BServer)
+
+#### <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="20" height="20" style="vertical-align: middle;"/> Nodejs  [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/Node)
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" width="20" height="20" style="vertical-align: middle;"/> Postgresql [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/Postgresql)
+
+#### <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="20" height="20" style="vertical-align: middle;"/> Spring [👆](https://github.com/keartt/TIL/tree/main/Tech%20Stack/Docker)
+
