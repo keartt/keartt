@@ -17,6 +17,8 @@ If you want to contact me, and just [mail to me](mailto:shalpha_2@naver.com)
    <a href="https://velog.io/@ttraek/posts" target="_empty">
       <img src="https://img.shields.io/badge/velog-04B4AE?style=for-the-badge&logo=Velog&logoColor=white"/>
   </a>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shalpha)](https://solved.ac/shalpha/)
 
 </div>
 <div align="center">
