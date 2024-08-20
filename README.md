@@ -11,8 +11,8 @@
 
 ### About me
 <div style="margin: ; text-align: left;" "text-align: left;"> 
- <a href="/">
-  <img src="https://img.shields.io/badge/Portfolio-778491?style=flat-square&logo=Notion&logoColor=white">
+ <a href="https://keartt.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-778491?style=flat-square&logo=readthedocs&logoColor=white">
  </a>
  <a href="https://velog.io/@miraexhoi](https://keartt.tistory.com">
   <img src="https://img.shields.io/badge/Blog-c730c8?style=flat-square&logo=tistory&logoColor=white">
@@ -20,7 +20,7 @@
  <a href="mailto:shalpha_2@naver.com">
   <img src="https://img.shields.io/badge/Mail-02c95b?style=flat-square&logo=Gmail&logoColor=white">
  </a>
- <a href="mailto:shalpha_2@naver.com">
+ <a href="https://www.linkedin.com/in/cheesecake-kimchi-051b312b5/">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
  </a>
 </div>
