@@ -14,7 +14,7 @@
  <a href="https://keartt.github.io/">
   <img src="https://img.shields.io/badge/Portfolio-778491?style=flat-square&logo=readthedocs&logoColor=white">
  </a>
- <a href="https://velog.io/@miraexhoi](https://keartt.tistory.com">
+ <a href="https://keartt.tistory.com">
   <img src="https://img.shields.io/badge/Blog-c730c8?style=flat-square&logo=tistory&logoColor=white">
  </a>
  <a href="mailto:shalpha_2@naver.com">
